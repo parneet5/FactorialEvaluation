@@ -1,4 +1,3 @@
-
 def fractal_eval(expr):
     def arithmetic_evaluation(fractal_expression):
         return eval(fractal_expression)
